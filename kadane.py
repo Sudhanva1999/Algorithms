@@ -1,5 +1,5 @@
 def getMaxSubArraySum(inputArray):
-    maxSum = 0
+    maxSum = -999999
     currentSum = 0
     for num in inputArray:
         currentSum += num
