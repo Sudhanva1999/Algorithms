@@ -1,3 +1,4 @@
+# Max possible contigous sub array sum
 def getMaxSubArraySum(inputArray):
     maxSum = -999999
     currentSum = 0
